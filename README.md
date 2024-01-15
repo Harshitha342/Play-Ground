@@ -1,6 +1,6 @@
-# Play-Ground
+### Play-Ground
 
-# C Games Collection
+## C Games Collection
 
 Welcome to the C Games Collection! This repository is a compilation of simple games implemented in the C programming language. Perhaps a bit of nostalgic fun.
 
