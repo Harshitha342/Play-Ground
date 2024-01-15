@@ -8,4 +8,4 @@ Welcome to the C Games Collection! This repository is a collection of simple gam
 
 In the realm of C programming, simplicity meets creativity.
 
-Feel free to explore, play, and contribute your own creations. Let the journey begin!
+Feel free to explore, play, and contribute your own creations. Let the journey begin!!
