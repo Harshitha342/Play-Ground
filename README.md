@@ -9,4 +9,4 @@ This repository is a collection of simple games implemented in the C programming
 
 In the realm of C programming, simplicity meets creativity.
 
-Feel free to explore, play, and contribute your own creations. Let the journey begin!!
+Feel free to explore, play, and contribute your own creations. Let the journey begin!
