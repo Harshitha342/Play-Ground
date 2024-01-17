@@ -7,7 +7,7 @@ Welcome to the C Games Collection!
 
 ## Prologue
 
-In the realm of C programming, simplicity meets creativity>>>
+In the realm of C programming, simplicity meets creativity>>>>
 
 ##
 
