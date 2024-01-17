@@ -3,7 +3,7 @@
 ## C Games Collection
 
 Welcome to the C Games Collection! 
-- This repository is a collection of simple games implemented in the C programming language. Perhaps a bit of nostalgic fun.
+- This repository is a collection of simple games implemented in the C programming language. Perhaps a bit of nostalgic fun..
 
 ## Prologue
 
