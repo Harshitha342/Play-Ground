@@ -1,4 +1,4 @@
-8## Play-Ground 🤫
+## Play-Ground 🤫
 
 ## C Games Collection
 
@@ -11,4 +11,4 @@ Welcome to the C Games Collection!
   
 ##
 
-Feel free to explore, play, and contribute your own creations. Let the journey begin!!!
+Feel free to explore, play, and contribute your own creations. Let the journey begin!
