@@ -1,4 +1,3 @@
-6
 ## Play-Ground 🤫
 
 ## C Games Collection
