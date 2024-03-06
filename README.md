@@ -1,4 +1,4 @@
-6## Play-Ground 🤫
+## Play-Ground 🤫
 
 ## C Games Collection
 
